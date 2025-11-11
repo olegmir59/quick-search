@@ -1,4 +1,4 @@
-# Employee Directory CLI
+# Employee Directory Command Line Interface
 
 ## Требования
 - Python 3.11 или новее (`python --version`)
